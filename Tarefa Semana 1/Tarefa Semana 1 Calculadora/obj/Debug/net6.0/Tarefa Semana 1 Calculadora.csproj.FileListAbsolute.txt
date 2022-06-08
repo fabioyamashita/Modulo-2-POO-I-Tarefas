@@ -1,0 +1,15 @@
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\bin\Debug\net6.0\Tarefa Semana 1 Calculadora.exe
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\bin\Debug\net6.0\Tarefa Semana 1 Calculadora.deps.json
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\bin\Debug\net6.0\Tarefa Semana 1 Calculadora.runtimeconfig.json
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\bin\Debug\net6.0\Tarefa Semana 1 Calculadora.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\bin\Debug\net6.0\Tarefa Semana 1 Calculadora.pdb
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.csproj.AssemblyReference.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.AssemblyInfoInputs.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.AssemblyInfo.cs
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\refint\Tarefa Semana 1 Calculadora.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.pdb
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\Tarefa Semana 1 Calculadora.genruntimeconfig.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Calculadora\obj\Debug\net6.0\ref\Tarefa Semana 1 Calculadora.dll

@@ -1,0 +1,15 @@
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\bin\Debug\net6.0\Tarefa Semana 1 Futebol.exe
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\bin\Debug\net6.0\Tarefa Semana 1 Futebol.deps.json
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\bin\Debug\net6.0\Tarefa Semana 1 Futebol.runtimeconfig.json
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\bin\Debug\net6.0\Tarefa Semana 1 Futebol.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\bin\Debug\net6.0\Tarefa Semana 1 Futebol.pdb
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.csproj.AssemblyReference.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.AssemblyInfoInputs.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.AssemblyInfo.cs
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.csproj.CoreCompileInputs.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\refint\Tarefa Semana 1 Futebol.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.pdb
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\Tarefa Semana 1 Futebol.genruntimeconfig.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefa-Semana-1\Tarefa Semana 1\Tarefa Semana 1 Futebol\obj\Debug\net6.0\ref\Tarefa Semana 1 Futebol.dll

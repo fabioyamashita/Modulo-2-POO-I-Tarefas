@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarefa Semana 1", "Tarefa Semana 1\Tarefa Semana 1.csproj", "{ED366A8D-19CC-405F-99AB-049DAA5C5446}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarefa Semana 1 Retangulo", "Tarefa Semana 1 Retangulo\Tarefa Semana 1 Retangulo.csproj", "{825CF47E-DCC4-4FBE-8AF5-C28EBED77B49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarefa Semana 1 Futebol", "Tarefa Semana 1 Futebol\Tarefa Semana 1 Futebol.csproj", "{62BBA433-3A34-41E6-AFD2-575E67EDF542}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarefa Semana 1 RegistroAcademico", "Tarefa Semana 1 RegistroAcademico\Tarefa Semana 1 RegistroAcademico.csproj", "{43041EC2-10BC-4C53-B97C-95023BC7A964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa Semana 1 Calculadora", "Tarefa Semana 1 Calculadora\Tarefa Semana 1 Calculadora.csproj", "{B3B380EB-F46E-4911-8D21-A3F58DD7F7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED366A8D-19CC-405F-99AB-049DAA5C5446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED366A8D-19CC-405F-99AB-049DAA5C5446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED366A8D-19CC-405F-99AB-049DAA5C5446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED366A8D-19CC-405F-99AB-049DAA5C5446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825CF47E-DCC4-4FBE-8AF5-C28EBED77B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825CF47E-DCC4-4FBE-8AF5-C28EBED77B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825CF47E-DCC4-4FBE-8AF5-C28EBED77B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825CF47E-DCC4-4FBE-8AF5-C28EBED77B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BBA433-3A34-41E6-AFD2-575E67EDF542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BBA433-3A34-41E6-AFD2-575E67EDF542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BBA433-3A34-41E6-AFD2-575E67EDF542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BBA433-3A34-41E6-AFD2-575E67EDF542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43041EC2-10BC-4C53-B97C-95023BC7A964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43041EC2-10BC-4C53-B97C-95023BC7A964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43041EC2-10BC-4C53-B97C-95023BC7A964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43041EC2-10BC-4C53-B97C-95023BC7A964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B380EB-F46E-4911-8D21-A3F58DD7F7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B380EB-F46E-4911-8D21-A3F58DD7F7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B380EB-F46E-4911-8D21-A3F58DD7F7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B380EB-F46E-4911-8D21-A3F58DD7F7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE1435A-8808-4EF6-B3B8-56897C3BEBF7}
+	EndGlobalSection
+EndGlobal
