@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 2\\Tarefa Semana 2\\Tarefa Semana 2.csproj",
-      "projectName": "Tarefa Semana 2",
-      "projectPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 2\\Tarefa Semana 2\\Tarefa Semana 2.csproj",
+      "projectUniqueName": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 2\\Tarefa Semana 2 Gerente\\Tarefa Semana 2 Gerente.csproj",
+      "projectName": "Tarefa Semana 2 Gerente",
+      "projectPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 2\\Tarefa Semana 2 Gerente\\Tarefa Semana 2 Gerente.csproj",
       "packagesPath": "C:\\Users\\yamas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 2\\Tarefa Semana 2\\obj\\",
+      "outputPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 2\\Tarefa Semana 2 Gerente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

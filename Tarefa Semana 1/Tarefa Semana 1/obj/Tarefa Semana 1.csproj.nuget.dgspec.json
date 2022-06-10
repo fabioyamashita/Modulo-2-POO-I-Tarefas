@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefa-Semana-1\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj": {}
+    "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefa-Semana-1\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj": {
+    "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefa-Semana-1\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj",
+        "projectUniqueName": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj",
         "projectName": "Tarefa Semana 1",
-        "projectPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefa-Semana-1\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj",
+        "projectPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 1\\Tarefa Semana 1\\Tarefa Semana 1.csproj",
         "packagesPath": "C:\\Users\\yamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefa-Semana-1\\Tarefa Semana 1\\Tarefa Semana 1\\obj\\",
+        "outputPath": "C:\\Users\\yamas\\Documents\\C#\\Curso-Completo-Lets-Code-Safra\\Modulo-2-POO-I-Tarefas\\Tarefa Semana 1\\Tarefa Semana 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
