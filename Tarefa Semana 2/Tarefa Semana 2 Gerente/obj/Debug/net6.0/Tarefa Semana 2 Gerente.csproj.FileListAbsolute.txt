@@ -1,0 +1,15 @@
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\bin\Debug\net6.0\Tarefa Semana 2 Gerente.exe
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\bin\Debug\net6.0\Tarefa Semana 2 Gerente.deps.json
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\bin\Debug\net6.0\Tarefa Semana 2 Gerente.runtimeconfig.json
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\bin\Debug\net6.0\Tarefa Semana 2 Gerente.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\bin\Debug\net6.0\Tarefa Semana 2 Gerente.pdb
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.csproj.AssemblyReference.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.AssemblyInfoInputs.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.AssemblyInfo.cs
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.csproj.CoreCompileInputs.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\refint\Tarefa Semana 2 Gerente.dll
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.pdb
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\Tarefa Semana 2 Gerente.genruntimeconfig.cache
+C:\Users\yamas\Documents\C#\Curso-Completo-Lets-Code-Safra\Modulo-2-POO-I-Tarefas\Tarefa Semana 2\Tarefa Semana 2 Gerente\obj\Debug\net6.0\ref\Tarefa Semana 2 Gerente.dll

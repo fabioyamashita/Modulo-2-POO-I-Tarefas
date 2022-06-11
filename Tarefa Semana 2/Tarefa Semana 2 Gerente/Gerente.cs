@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace Tarefa_Semana_2_Gerente
 {
-    class Gerente
+    public class Gerente
     {
         public string? nome;
         public double salario;
+
+        public Gerente(string nome, double salario)
+        {
+            this.nome = nome;
+            this.salario = salario;
+        }
 
         public void AumentaSalario()
         {
@@ -39,6 +45,17 @@ namespace Tarefa_Semana_2_Gerente
             {
                 int soma = x + y + z;
             }
+        }
+
+        public void ImprimirSalario()
+        {
+            Console.WriteLine($"\nSalário: R$ {salario.ToString("N2")}");
+        }
+
+        public void ConsultaDados()
+        {
+            Console.WriteLine($"\n## Dados do Gerente ##");
+            Console.WriteLine($"Nome: {nome}");
         }
 
     }
